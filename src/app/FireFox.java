@@ -18,7 +18,7 @@ public class FireFox extends WebBrowserUtility{
 	private final String TYPE = "type";
 	private final String NAME ="title";
 	private final String URL = "uri";
-	private final String BOOKMARK="C:\\Users\\nabisawa\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\kuilpdc5.default\\bookmarkbackups";
+	private final String BOOKMARK="";
 	private final String BOOKMARK_AUTO = "auto";
 
 	/*

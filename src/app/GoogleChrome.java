@@ -16,7 +16,7 @@ public class GoogleChrome extends WebBrowserUtility {
 	private final String URL="url";
 	private final String TYPE = "type";
 	private final String NAME ="name";
-	private final String BOOKMARK = "C:\\Users\\nabisawa\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Bookmarks";
+	private final String BOOKMARK = "";
 	private final String BOOKMARK_AUTO = "auto";
 
 	/*
